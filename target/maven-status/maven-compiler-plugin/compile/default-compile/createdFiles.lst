@@ -1,0 +1,5 @@
+vertx/app/MyFirstVerticle.class
+vertx/app/MyFirstVerticleJspare.class
+vertx/routes/WhiskyRoute.class
+vertx/domain/Whisky.class
+vertx/routes/IndexRoute.class
